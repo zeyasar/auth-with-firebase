@@ -7,6 +7,7 @@ import Login from './Login';
 import PrivateRoute from "./PrivateRoute";
 import ForgotPassword from "./ForgotPassword";
 import UpdateProfile from "./UpdateProfile";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
